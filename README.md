@@ -14,7 +14,7 @@
 
 <p align="center"><img src=".github/assets/my_hunter-1.png" alt="Dune: Spice Wars" width="820"/></p>
 
-## En deux mots
+## Le projet en quelques mots
 
 Mon premier jeu en C avec la CSFML, inspiré de *Duck Hunt*. On est dans le cockpit d'un vaisseau, des météores traversent l'écran, et il faut les détruire avant d'avoir perdu toutes ses vies.
 
@@ -27,10 +27,6 @@ Mon premier jeu en C avec la CSFML, inspiré de *Duck Hunt*. On est dans le cock
 
 <p align="center"><img src=".github/assets/my_hunter.gif" alt="En jeu : il faut cliquer sur les météores avant de perdre toutes ses vies" width="760"/></p>
 <p align="center"><sub>En jeu : il faut cliquer sur les météores avant de perdre toutes ses vies</sub></p>
-
-## Sous le capot
-
-Une boucle de jeu classique : on gère les événements, on met à jour les sprites selon l'horloge, et on dessine. Un clic touche un météore si la souris est dans sa hitbox.
 
 ## Lancer le projet
 
